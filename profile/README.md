@@ -8,7 +8,7 @@ joe sim is a online game made in [🐧penguinmod!](https://github.com/PenguinMod
 this has archives of most of the joe games!
 why most? 
 because my usb filled with all versions got corruped. damn.
-but there are only few versions that i don't fave, so when penguinmod servers come back online, they will be reposted.
+but there are only few versions that i don't have, so when penguinmod servers come back online, they will be reposted.
 
 and for now (*and probably forever*) it's only me working on joe simulator, so yeah. here are some links:
 1. joesimulatorcontact@gmail.com - official contact for joe sim related stuff!
